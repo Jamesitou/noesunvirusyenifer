@@ -1,4 +1,3 @@
-
   $('.no').on("click", function(){ 
   $('#f1').css('display', 'none');
   $('#f2').css('display', 'flex');  
